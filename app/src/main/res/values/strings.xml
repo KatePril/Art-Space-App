@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Art Space App</string>
+    <string name="rose_title">Rose</string>
+    <string name="stack_of_rocks_title">The stack of rocks</string>
+    <string name="valley_tree_title">The tree in the valley</string>
+    <string name="lake_and_boats_title">The boats</string>
+    <string name="lake_and_valley_title">The lake in the valley</string>
+    <string name="rose_author">John Blue (2009)</string>
+    <string name="stack_of_rocks_author">Mandy Woodstock (2018)</string>
+    <string name="valley_tree_author">John Blue (2015)</string>
+    <string name="lake_and_boats_author">Arthur Cord (2017)</string>
+    <string name="lake_and_valley_author">Arthur Cord (2010)</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
 </resources>
